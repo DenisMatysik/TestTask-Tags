@@ -1,0 +1,13 @@
+.tagsContainer{
+    display: flex;
+    background-color: rgb(100, 15, 180);
+    color: white;
+}
+
+.tag{
+    display: flex;
+    font-size: 1.6rem;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 1rem;
+}

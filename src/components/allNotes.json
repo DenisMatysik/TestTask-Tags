@@ -1,0 +1,24 @@
+{
+    "notes": [
+      {
+        "id": 0,
+        "note": "Buy #milk",
+        "tag": "#milk"
+      },
+      {
+        "id": 1,
+        "note": "Buy milk",
+        "tag": ""
+      },
+      {
+        "id": 2,
+        "note": "Buy #bread",
+        "tag": "#bread"
+      },
+      {
+        "id": 3,
+        "note": "Buy bread",
+        "tag": ""
+      }
+    ]
+  }

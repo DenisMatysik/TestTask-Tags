@@ -1,0 +1,31 @@
+.modalContainer{
+        display: flex;
+        justify-content: center; 
+        align-items: flex-start;
+        position: fixed; 
+        z-index: 1; /* Сидеть на вершине */
+        padding-top: 100px; 
+        left: 0;
+        top: 0;
+        width: 100%; 
+        height: 100%; 
+        overflow: auto; 
+        color: white;
+        background-color: rgba(0, 0, 0, 0.83); 
+        .modalForm{
+                display: flex;
+                flex-direction: column;
+                justify-content: space-around;
+                align-items: center;
+                align-content: center;
+        }    
+}
+
+
+.modalInput{
+        margin: 1rem 0;
+}
+
+.viewing{
+        margin: 1rem 0;
+}

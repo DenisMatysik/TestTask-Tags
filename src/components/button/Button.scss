@@ -1,0 +1,44 @@
+.button {
+	padding: 0.8rem 1.2rem;
+    margin: 0.2rem;
+	border: none;
+	border-radius: 6px;
+	font-size: 1.6rem;
+	cursor: pointer;
+}
+
+.button--primary {
+	background-color: rgba(7, 40, 109, 0.973);
+	color: white;
+	&:hover{
+		background-color: white;
+		color: rgba(7, 40, 109, 0.973);
+	}
+}
+
+.button--accept {
+	background-color: green;
+	color: white;
+	&:hover{
+		background-color: white;
+		color: green;
+	}
+}
+
+.button--edit {
+	background-color: orange;
+	color: white;
+	&:hover{
+		background-color: white;
+		color: orange;
+	}
+}
+
+.button--close{
+	background-color: red;
+	color: white;
+	&:hover{
+		background-color: white;
+		color: red;		
+	}
+}
