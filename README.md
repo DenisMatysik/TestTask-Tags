@@ -1,3 +1,12 @@
+Разработать одностраничное приложение на Angular 2+/React/etc: текстовый редактор заметок с тегами.
+Действия:
+
+1. Создание, редактирование, просмотр и удаление заметок;
+2. Фильтр заметок по тегу;
+3. Добавление и удаление тегов из списка.
+4. Данные хранить в json- файле.
+5. Использование CSS препроцессора.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +77,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # TestTask-Tags
