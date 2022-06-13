@@ -1,0 +1,10 @@
+.ruleContainer{
+    display: flex;
+    justify-content: flex-start;
+    margin: 1rem;
+    flex-direction: column;
+
+    li{
+        margin: 1rem;
+    }
+}
